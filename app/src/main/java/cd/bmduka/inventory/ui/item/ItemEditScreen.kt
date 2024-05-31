@@ -29,6 +29,7 @@ import androidx.compose.ui.platform.LocalLayoutDirection
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.lifecycle.viewmodel.compose.viewModel
+import cd.bmduka.inventory.ui.item.ItemEntryBody
 import cd.bmduka.inventory.InventoryTopAppBar
 import cd.bmduka.inventory.R
 import cd.bmduka.inventory.ui.AppViewModelProvider
